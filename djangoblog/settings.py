@@ -25,7 +25,7 @@ SECRET_KEY = 'g07&3#38*4!$_x&fp66-+6rg!@8$2v!vdao_qe_3ooj(xb_k%-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhoost', '.xiashunming.studio']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.xiashunming.studio']
 
 
 # Application definition
